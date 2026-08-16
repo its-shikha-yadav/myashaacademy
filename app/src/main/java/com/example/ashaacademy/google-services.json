@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591578192954",
+    "project_id": "asha-aacademy",
+    "storage_bucket": "asha-aacademy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591578192954:android:3587864be37e3cfd766903",
+        "android_client_info": {
+          "package_name": "com.example.ashaacademy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsJTkbUdUPt5FSSXEJrzb4uRRb7-v891w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
